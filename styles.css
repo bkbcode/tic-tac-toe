@@ -11,6 +11,11 @@ body {
   justify-content: center;
 }
 
+#container {
+  display: flex;
+  flex-direction: column;
+}
+
 #title {
   margin: auto;
   padding-bottom: 30px;
