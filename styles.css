@@ -95,6 +95,12 @@
     height: 100vh;
   }
 
+  #container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
   #board {
     width: 300px;
     height: 300px;
