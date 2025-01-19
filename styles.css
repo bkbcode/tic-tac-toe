@@ -91,6 +91,10 @@
 }
 
 @media (max-width: 480px) {
+  body {
+    height: 100vh;
+  }
+
   #board {
     width: 300px;
     height: 300px;
